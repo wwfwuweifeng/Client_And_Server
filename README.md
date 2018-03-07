@@ -1,5 +1,5 @@
 # Client_And_Server
-##java的socket编程学习，实现C-S-C，C-C通信
+## java的socket编程学习，实现C-S-C，C-C通信
 >本程序模仿了简单的客户端与客户端之间的通信过程，两客户端之间建立的是tcp连接，不是udp
 
 ### 使用过程：
